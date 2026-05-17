@@ -329,7 +329,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4525f74b3460cf4799288e5cbebe6e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SometimeFlip
-  maxCount: 50
+  maxCount: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
