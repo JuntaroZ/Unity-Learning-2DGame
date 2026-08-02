@@ -683,7 +683,7 @@ MonoBehaviour:
   offset: {x: 0, y: 0}
   xlimit: 0
   followHOnly: 0
-  smoothFollow: 0
+  smoothFollow: 1
   smoothSpeed: 4
 --- !u!1 &1421238966
 GameObject:
